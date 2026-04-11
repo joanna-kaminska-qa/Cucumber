@@ -1,0 +1,1 @@
+{"uuid":"295a30eb-d39e-4cb3-911d-af2503754112","name":"Scenario: Create users from data table","children":["466fb58f-913a-47bf-89f4-1aa6728c1375"],"befores":[{"name":"stepDefinitions.Hooks.setup()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775905861959,"stop":1775905861960}],"afters":[],"start":1775905861959,"stop":1775905862821}

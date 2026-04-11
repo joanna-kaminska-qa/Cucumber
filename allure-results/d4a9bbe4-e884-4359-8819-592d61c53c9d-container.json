@@ -1,0 +1,1 @@
+{"uuid":"d4a9bbe4-e884-4359-8819-592d61c53c9d","name":"Scenario: Manual mapping example","children":["58a17047-cb59-4d65-bf98-b666c8dc700b"],"befores":[{"name":"stepDefinitions.Hooks.setup()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775905862831,"stop":1775905862832}],"afters":[],"start":1775905862831,"stop":1775905862836}

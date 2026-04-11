@@ -1,0 +1,1 @@
+{"uuid":"3893ac33-1b97-4416-93f7-614d93fa7b14","name":"Scenario: Verify user geographic location","children":["1a5705ac-5e2f-4bd4-96f5-e3478828c79b"],"befores":[{"name":"stepDefinitions.Hooks.setup()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775905862845,"stop":1775905862846}],"afters":[],"start":1775905862845,"stop":1775905862935}

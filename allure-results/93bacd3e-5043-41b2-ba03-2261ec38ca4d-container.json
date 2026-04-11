@@ -1,0 +1,1 @@
+{"uuid":"93bacd3e-5043-41b2-ba03-2261ec38ca4d","name":"Scenario: Successfully create a new user","children":["f63e2df3-a62d-47c2-bae3-d071e83aca36"],"befores":[{"name":"stepDefinitions.Hooks.setup()","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1775905863822,"stop":1775905863822}],"afters":[],"start":1775905863822,"stop":1775905864016}
